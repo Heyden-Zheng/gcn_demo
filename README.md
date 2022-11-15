@@ -8,4 +8,4 @@ GCN实现节点分类任务
   skill_relation：知识点关系
   skill_labels：标签（0表示简单，1表示困难）
   
-作者邮箱：hd_zheng@163.com
+Email：hd_zheng@163.com
